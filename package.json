@@ -10,6 +10,10 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ray0907/strong-cluster-express-store-next.git"
+  },
   "keywords": [
     "express",
     "cluster",
@@ -21,6 +25,9 @@
     "email": "a0939552854@gmail.com"
   },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ray0907/strong-cluster-express-store-next/issues"
+  },
   "devDependencies": {
     "async": "^3.2.4",
     "body-parser": "^1.20.0",
