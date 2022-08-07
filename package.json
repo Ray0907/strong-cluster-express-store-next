@@ -1,6 +1,6 @@
 {
   "name": "strong-cluster-express-store-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Store express-session using node's native cluster messaging",
   "main": "index.js",
   "directories": {
