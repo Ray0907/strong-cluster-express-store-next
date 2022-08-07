@@ -94,7 +94,7 @@ if (cluster.isMaster) {
   app.use(
     session({
       store: new ClusterStore(session),
-      secret: "super-cool",
+      secret: "SECRET",
       resave: false,
       saveUninitialized: true,
     })
