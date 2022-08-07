@@ -4,6 +4,6 @@
 
 - Add installation and complete README.
 
-## [1.0.0] - 2022-08-01
+## [1.0.0] - 2022-08-06
 
 - Initalize the module.
